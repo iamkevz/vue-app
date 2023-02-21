@@ -93,10 +93,19 @@
         >
           <div class="flex -space-x-3">
             <div
-              v-for="i in 3"
               class="w-13 h-13 rounded-full border-4 border-white object-cover overflow-hidden"
             >
-              <img :src="`./assets/images/avatar-${i}.jpeg`" alt="" />
+              <img src="./assets/images/avatar-1.jpeg" alt="" />
+            </div>
+            <div
+              class="w-13 h-13 rounded-full border-4 border-white object-cover overflow-hidden"
+            >
+              <img src="./assets/images/avatar-2.jpeg" alt="" />
+            </div>
+            <div
+              class="w-13 h-13 rounded-full border-4 border-white object-cover overflow-hidden"
+            >
+              <img src="./assets/images/avatar-3.jpeg" alt="" />
             </div>
           </div>
           <div class="pt-3 font-bold">Happy customers</div>
