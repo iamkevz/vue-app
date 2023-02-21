@@ -27,11 +27,6 @@
             ></div>
           </li>
         </ul>
-        <button
-          class="flex justify-center items-center h-13 px-7 font-medium text-white bg-orange-700 rounded-xl hover:shadow-primary transition-shadow duration-300 whitespace-nowrap"
-        >
-          Get Started
-        </button>
       </div>
     </nav>
     <div
@@ -57,7 +52,7 @@
         </p>
         <div class="flex pt-8 space-x-6">
           <button
-            class="flex justify-center items-center h-13 px-8 font-medium bg-orange-500 text-white rounded-xl hover:shadow-primary transition-shadow duration-300"
+            class="flex justify-center items-center h-13 px-8 font-medium bg-orange-500 text-white rounded-xl hover:shadow-xl transition-shadow duration-300"
           >
             Get Started
           </button>
